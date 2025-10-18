@@ -193,7 +193,7 @@ class PokedexEditorGUI:
         )
         link.pack(side=tk.RIGHT)
         link.bind("<Button-1>", lambda _:
-                  webbrowser.open_new("https://github.com/AngeHell47/PLZA-Full-Pokedex"))
+                  webbrowser.open_new("https://github.com/AngeHell47/PLZA-Pokedex-Editor"))
 
     def create_pokemon_list(self):
         import tkinter.font as tkfont
