@@ -14,7 +14,8 @@ You can mark Pokémon as captured, battled, or shiny, then save your changes bac
 
 1. Dump your save file using JKSV or similar
 2. Copy your save file to your PC
-3. Download latest release ZIP from the [Releases](https://github.com/azalea-w/plza-recovery/releases) Section
+3. Download latest release ZIP from the [Releases](https://github.com/AngeHell47/PLZA-Pokedex-Editor/releases) Section
+3.1 Or Download latest release EXE and execute it.
 4. Open your shell (powershell or cmd for windows)
 5. Run the Script like `python <path/to/main.py> <path/to/save/main>`!
 
