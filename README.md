@@ -4,7 +4,7 @@
 ---
 
 ## What's this?
-This is a simple tool that lets you edit your Pokedex data directly from your Pokémon Legends: ZA save file.  
+While waiting for the PKHex update, this is a simple tool that lets you edit your Pokedex data directly from your Pokémon Legends: ZA save file.
 You can mark Pokémon as captured, battled, or shiny, then save your changes back into the game.
 
 ## Dependencies
